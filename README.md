@@ -1,5 +1,7 @@
 **MediaKit** is a robust Filament plugin that allows you to manage your ImageKit.io assets directly from your Laravel admin dashboard. It features a seamless file manager interface, advanced search capabilities, and on-the-fly image transformations.
 
+<img style="display: block; margin: auto;" src="https://creator.ianstudios.id/storage/2207_Sleek-MediaKit-Banner.png"/>
+
 ## ✨ Features
 
 * **📂 File Manager Interface**: Browse folders and files with a native-like experience (Grid & Table views).

@@ -1,3 +1,5 @@
+# 📦 MediaKit - Private ImageKit Manager
+
 **MediaKit** is a robust Filament plugin that allows you to manage your ImageKit.io assets directly from your Laravel admin dashboard. It features a seamless file manager interface, advanced search capabilities, and on-the-fly image transformations.
 
 <img style="display: block; margin: auto;" src="https://creator.ianstudios.id/storage/2207_Sleek-MediaKit-Banner.png"/>
@@ -42,7 +44,7 @@ To install the package, you must first configure your project to authenticate wi
 Run the following command in your terminal:
 
 ```bash
-composer config http-basic.creator.ianstudios.id YOUR_USERNAME YOUR_PASSWORD
+composer config http-basic.creator.ianstudios.id [YOUR_USERNAME or YOUR_EMAIL] YOUR_LICENSE_KEY
 ```
 
 ### 3. Require the Package

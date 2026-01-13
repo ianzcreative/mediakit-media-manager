@@ -1,4 +1,4 @@
-# 📦 MediaKit - Private ImageKit Manager
+# 📦 MediaKit - Media Manager
 
 **MediaKit** is a robust Filament plugin that allows you to manage your ImageKit.io assets directly from your Laravel admin dashboard. It features a seamless file manager interface, advanced search capabilities, and on-the-fly image transformations.
 

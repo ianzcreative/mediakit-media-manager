@@ -32,7 +32,7 @@ Open the composer.json file in your root Laravel application and add the local r
   "repositories": [
     {
       "type": "composer",
-      "url": "https://creator.ianstudios.id"
+      "url": "https://mediakit.creator.ianstudios.id"
     }
   ],
 },
@@ -44,7 +44,7 @@ To install the package, you must first configure your project to authenticate wi
 Run the following command in your terminal:
 
 ```bash
-composer config http-basic.creator.ianstudios.id [YOUR_USERNAME or YOUR_EMAIL] YOUR_LICENSE_KEY
+composer config http-basic.mediakit.creator.ianstudios.id license YOUR_LICENSE_KEY
 ```
 
 ### 3. Require the Package
